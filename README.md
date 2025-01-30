@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KyeongWoo's%20Github&fontSize=40)
 ## Hi there 👋
 
-<div align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shu07002)](https://solved.ac/shu07002)
+<div align="center">
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shu07002)](https://solved.ac/shu07002)
+  
 </div>
+
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu07002&layout=compact)
 ![shu07002's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu07002&show_icons=true&theme=radical)
