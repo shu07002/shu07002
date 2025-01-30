@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KyeongWoo%20render&fontSize=90)
 ## Hi there 👋
 
 <!--
