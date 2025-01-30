@@ -3,7 +3,9 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shu07002)](https://solved.ac/shu07002)
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu07002&layout=compact)
 ![shu07002's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu07002&show_icons=true&theme=radical)
+
 
 
 
