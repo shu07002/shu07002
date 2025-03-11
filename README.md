@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KyeongWoo's%20Github&fontSize=40)
-## Hi there 👋
+## Git Status
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshu07002%2Fhit-counter&count_bg=%2300101D&title_bg=%231474D3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <div align="center">
