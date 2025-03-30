@@ -1,6 +1,13 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KyeongWoo's%20Github&fontSize=40)
+
+<h2 align="left">Contact</h2>
+<div align="left" style="background-color: #ffffff" width="100%">
+    <a href="https://shu07002.tistory.com/" >
+      <img src="https://github.com/user-attachments/assets/d37fac60-0d27-439a-8228-b27464dd3275" alt="Tistory" width="100"/>
+    </a>
+</div>
 <h2 align="left">Git Status</h2>
 
 
