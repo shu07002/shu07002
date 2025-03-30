@@ -7,7 +7,16 @@
     <a href="https://shu07002.tistory.com/" >
       <img src="https://github.com/user-attachments/assets/d37fac60-0d27-439a-8228-b27464dd3275" alt="Tistory" width="100"/>
     </a>
+    <div/>
+    <a href="mailto:shu07002@gmail.com">
+      <img src="https://github.com/user-attachments/assets/cc373f14-ae0e-4614-9eef-1f7bcdae6f3a" alt="Gmail" width="30" />
+    </a>
+    <a href="mailto:shu07002@naver.com">
+      <img src="https://github.com/user-attachments/assets/6b25b7b9-cbfe-4e3d-8d40-897f6f8dd5bf" alt="Naver" width="30" />
+    </a> 
 </div>
+
+
 <h2 align="left">Git Status</h2>
 
 
