@@ -3,18 +3,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KyeongWoo's%20Github&fontSize=40)
 
 <h2 align="left">Contact</h2>
-<div align="left" style="background-color: #ffffff" width="100%">
-    <a href="https://shu07002.tistory.com/" >
-      <img src="https://github.com/user-attachments/assets/d37fac60-0d27-439a-8228-b27464dd3275" alt="Tistory" width="100"/>
-    </a>
-    <div/>
-    <a href="mailto:shu07002@gmail.com">
-      <img src="https://github.com/user-attachments/assets/cc373f14-ae0e-4614-9eef-1f7bcdae6f3a" alt="Gmail" width="30" />
-    </a>
-    <a href="mailto:shu07002@naver.com">
-      <img src="https://github.com/user-attachments/assets/6b25b7b9-cbfe-4e3d-8d40-897f6f8dd5bf" alt="Naver" width="30" />
-    </a> 
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://shu07002.tistory.com/">
+        <img src="https://github.com/user-attachments/assets/d37fac60-0d27-439a-8228-b27464dd3275" alt="Tistory" width="100"/>
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" valign="middle">
+      <a href="mailto:shu07002@gmail.com">
+        <img src="https://github.com/user-attachments/assets/cc373f14-ae0e-4614-9eef-1f7bcdae6f3a" alt="Gmail" width="30" />
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" valign="middle">
+      <a href="mailto:shu07002@naver.com">
+        <img src="https://github.com/user-attachments/assets/6b25b7b9-cbfe-4e3d-8d40-897f6f8dd5bf" alt="Naver" width="30" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">Git Status</h2>
